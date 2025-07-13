@@ -1,0 +1,114 @@
+// Fonts
+@import url('https://fonts.bunny.net/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import 'bootstrap/scss/bootstrap';
+@import url('https://fonts.cdnfonts.com/css/itc-korinna-std');
+.brand-link .brand-image {
+    margin-left: 12.8px;
+}
+.sidebar-mini.sidebar-collapse .korinna, .sidebar-mini.sidebar-collapse .korinna {
+    opacity: 0;
+}
+.sidebar .nav-link p {
+    text-wrap: nowrap;
+}
+.brand-link {
+    text-decoration: none !important;
+}
+.navbar {
+    padding: 0.5rem 10px;
+}
+.korinna {
+    font-family: 'ITC Korinna Std', sans-serif;
+    text-transform: uppercase;
+    font-size: 17px;
+    transition: 0.3s all;
+}
+:root {
+  --custom: #55aad4;
+  --custom-danger: #f96262;
+}
+.btn-primary {
+    background: var(--custom);
+    border: 1px solid var(--custom);
+    &:hover {
+        background: var(--custom);
+    }
+    &:focus {
+        background: var(--custom) !important;
+    }
+    &:active {
+        background: var(--custom) !important;
+    }
+}
+.bg-primary {
+    background: var(--custom) !important;
+}
+.btn-outline-primary {
+    color: var(--custom);
+    border: 1px solid var(--custom);
+    &:hover {
+        background: var(--custom);
+        color: #fff;
+    }
+    &:focus {
+        color: #fff;
+        background: var(--custom) !important;
+    }
+    &:active {
+        color: #fff;
+        background: var(--custom) !important;
+    }
+}
+.btn-danger {
+    background: var(--custom-danger);
+    border: 1px solid var(--custom-danger);
+    &:hover {
+        background: var(--custom-danger);
+    }
+    &:focus {
+        background: var(--custom-danger) !important;
+    }
+    &:active {
+        background: var(--custom-danger) !important;
+    }
+}
+.btn-outline-danger {
+    color: var(--custom-danger);
+    border: 1px solid var(--custom-danger);
+    &:hover {
+        background: var(--custom-danger);
+        color: #fff;
+    }
+    &:focus {
+        color: #fff;
+        background: var(--custom-danger) !important;
+    }
+    &:active {
+        color: #fff;
+        background: var(--custom-danger) !important;
+    }
+}
+
+.text-primary {
+    color: var(--custom) !important;
+}
+
+.card {
+    border: none;
+}
+.sidebar-dark-purple .nav-sidebar > .nav-item > .nav-link.active,
+.sidebar-light-purple .nav-sidebar > .nav-item > .nav-link.active {
+  background-color: var(--custom);
+  color: #fff;
+}
+.page-item.active .page-link {
+    z-index: 3;
+    color: #fff;
+    background-color: var(--custom);
+    border-color: var(--custom);
+}
