@@ -1,52 +1,52 @@
 {
   "AdminLayout.css": {
-    "file": "assets/AdminLayout-fe133092.css",
+    "file": "assets/AdminLayout-a3c77dfa.css",
     "src": "AdminLayout.css"
   },
   "Cstcarousel.css": {
-    "file": "assets/Cstcarousel-8e2cac9d.css",
+    "file": "assets/Cstcarousel-0d732e73.css",
     "src": "Cstcarousel.css"
   },
   "ValidationError.css": {
     "file": "assets/ValidationError-d2b8f0ed.css",
     "src": "ValidationError.css"
   },
-  "_AdminLayout-1d3700ae.js": {
+  "_AdminLayout-f20c5b94.js": {
     "css": [
-      "assets/AdminLayout-fe133092.css"
+      "assets/AdminLayout-a3c77dfa.css"
     ],
-    "file": "assets/AdminLayout-1d3700ae.js",
+    "file": "assets/AdminLayout-f20c5b94.js",
     "imports": [
       "__plugin-vue_export-helper-c27b6911.js",
       "resources/js/app.js",
       "_logo-c37a058e.js"
     ]
   },
-  "_Cstcarousel-ca2c56fa.js": {
+  "_Cstcarousel-ef2a8c80.js": {
     "assets": [
       "assets/arrow-252b1851.svg"
     ],
     "css": [
-      "assets/Cstcarousel-8e2cac9d.css"
+      "assets/Cstcarousel-0d732e73.css"
     ],
-    "file": "assets/Cstcarousel-ca2c56fa.js",
+    "file": "assets/Cstcarousel-ef2a8c80.js",
     "imports": [
       "resources/js/app.js",
       "__plugin-vue_export-helper-c27b6911.js"
     ]
   },
-  "_Pagination-e77d07ce.js": {
-    "file": "assets/Pagination-e77d07ce.js",
+  "_Pagination-1036cda7.js": {
+    "file": "assets/Pagination-1036cda7.js",
     "imports": [
       "resources/js/app.js",
       "__plugin-vue_export-helper-c27b6911.js"
     ]
   },
-  "_ValidationError-de78d7d1.js": {
+  "_ValidationError-8bcdd75a.js": {
     "css": [
       "assets/ValidationError-d2b8f0ed.css"
     ],
-    "file": "assets/ValidationError-de78d7d1.js",
+    "file": "assets/ValidationError-8bcdd75a.js",
     "imports": [
       "__plugin-vue_export-helper-c27b6911.js",
       "resources/js/app.js"
@@ -61,8 +61,8 @@
     ],
     "file": "assets/logo-c37a058e.js"
   },
-  "_searchUser-450b5bb8.js": {
-    "file": "assets/searchUser-450b5bb8.js",
+  "_searchUser-56cbf20e.js": {
+    "file": "assets/searchUser-56cbf20e.js",
     "imports": [
       "resources/js/app.js",
       "__plugin-vue_export-helper-c27b6911.js"
@@ -89,13 +89,13 @@
     "src": "public/images/logo.png"
   },
   "resources/js/Pages/Admin/Application/Edit.vue": {
-    "file": "assets/Edit-ac38ab80.js",
+    "file": "assets/Edit-8f0fdda4.js",
     "imports": [
-      "_AdminLayout-1d3700ae.js",
+      "_AdminLayout-f20c5b94.js",
       "resources/js/app.js",
-      "_Pagination-e77d07ce.js",
-      "_ValidationError-de78d7d1.js",
-      "_Cstcarousel-ca2c56fa.js",
+      "_Pagination-1036cda7.js",
+      "_ValidationError-8bcdd75a.js",
+      "_Cstcarousel-ef2a8c80.js",
       "__plugin-vue_export-helper-c27b6911.js",
       "_logo-c37a058e.js"
     ],
@@ -103,9 +103,9 @@
     "src": "resources/js/Pages/Admin/Application/Edit.vue"
   },
   "resources/js/Pages/Admin/Application/Index.vue": {
-    "file": "assets/Index-eedfc62e.js",
+    "file": "assets/Index-e6837ee5.js",
     "imports": [
-      "_AdminLayout-1d3700ae.js",
+      "_AdminLayout-f20c5b94.js",
       "resources/js/app.js",
       "__plugin-vue_export-helper-c27b6911.js",
       "_logo-c37a058e.js"
@@ -114,12 +114,12 @@
     "src": "resources/js/Pages/Admin/Application/Index.vue"
   },
   "resources/js/Pages/Admin/Audans/Create.vue": {
-    "file": "assets/Create-7fd51414.js",
+    "file": "assets/Create-650e1e66.js",
     "imports": [
-      "_AdminLayout-1d3700ae.js",
+      "_AdminLayout-f20c5b94.js",
       "resources/js/app.js",
-      "_Pagination-e77d07ce.js",
-      "_ValidationError-de78d7d1.js",
+      "_Pagination-1036cda7.js",
+      "_ValidationError-8bcdd75a.js",
       "__plugin-vue_export-helper-c27b6911.js",
       "_logo-c37a058e.js"
     ],
@@ -127,12 +127,12 @@
     "src": "resources/js/Pages/Admin/Audans/Create.vue"
   },
   "resources/js/Pages/Admin/Audans/Edit.vue": {
-    "file": "assets/Edit-28cb43c8.js",
+    "file": "assets/Edit-e45d4b52.js",
     "imports": [
-      "_AdminLayout-1d3700ae.js",
+      "_AdminLayout-f20c5b94.js",
       "resources/js/app.js",
-      "_Pagination-e77d07ce.js",
-      "_ValidationError-de78d7d1.js",
+      "_Pagination-1036cda7.js",
+      "_ValidationError-8bcdd75a.js",
       "__plugin-vue_export-helper-c27b6911.js",
       "_logo-c37a058e.js"
     ],
@@ -147,9 +147,9 @@
     "css": [
       "assets/Index-f0e8e4a2.css"
     ],
-    "file": "assets/Index-7ab9d24c.js",
+    "file": "assets/Index-33a77a91.js",
     "imports": [
-      "_AdminLayout-1d3700ae.js",
+      "_AdminLayout-f20c5b94.js",
       "__plugin-vue_export-helper-c27b6911.js",
       "resources/js/app.js",
       "_logo-c37a058e.js"
@@ -165,7 +165,7 @@
     "css": [
       "assets/CommentNode-59155402.css"
     ],
-    "file": "assets/CommentNode-e683f7cb.js",
+    "file": "assets/CommentNode-b4af632f.js",
     "imports": [
       "resources/js/app.js",
       "__plugin-vue_export-helper-c27b6911.js"
@@ -174,12 +174,12 @@
     "src": "resources/js/Pages/Admin/Forum/CommentNode.vue"
   },
   "resources/js/Pages/Admin/Forum/Create.vue": {
-    "file": "assets/Create-e53333f8.js",
+    "file": "assets/Create-2119c77f.js",
     "imports": [
-      "_AdminLayout-1d3700ae.js",
+      "_AdminLayout-f20c5b94.js",
       "resources/js/app.js",
-      "_Pagination-e77d07ce.js",
-      "_ValidationError-de78d7d1.js",
+      "_Pagination-1036cda7.js",
+      "_ValidationError-8bcdd75a.js",
       "__plugin-vue_export-helper-c27b6911.js",
       "_logo-c37a058e.js"
     ],
@@ -187,12 +187,12 @@
     "src": "resources/js/Pages/Admin/Forum/Create.vue"
   },
   "resources/js/Pages/Admin/Forum/Edit.vue": {
-    "file": "assets/Edit-ef9ccc88.js",
+    "file": "assets/Edit-4af8e77d.js",
     "imports": [
-      "_AdminLayout-1d3700ae.js",
+      "_AdminLayout-f20c5b94.js",
       "resources/js/app.js",
-      "_Pagination-e77d07ce.js",
-      "_ValidationError-de78d7d1.js",
+      "_Pagination-1036cda7.js",
+      "_ValidationError-8bcdd75a.js",
       "__plugin-vue_export-helper-c27b6911.js",
       "_logo-c37a058e.js"
     ],
@@ -201,15 +201,15 @@
   },
   "resources/js/Pages/Admin/Forum/Index.css": {
     "file": "assets/Index-7124c9a5.css",
-    "src": "resources/js/Pages/Admin/Forum/Index.css"
+    "src": "resources/js/Pages/Admin/Notification/Index.css"
   },
   "resources/js/Pages/Admin/Forum/Index.vue": {
     "css": [
       "assets/Index-7124c9a5.css"
     ],
-    "file": "assets/Index-92114945.js",
+    "file": "assets/Index-b3685388.js",
     "imports": [
-      "_AdminLayout-1d3700ae.js",
+      "_AdminLayout-f20c5b94.js",
       "resources/js/app.js",
       "__plugin-vue_export-helper-c27b6911.js",
       "_logo-c37a058e.js"
@@ -218,9 +218,9 @@
     "src": "resources/js/Pages/Admin/Forum/Index.vue"
   },
   "resources/js/Pages/Admin/Forum/Show.vue": {
-    "file": "assets/Show-0b92c649.js",
+    "file": "assets/Show-03d46a64.js",
     "imports": [
-      "_AdminLayout-1d3700ae.js",
+      "_AdminLayout-f20c5b94.js",
       "resources/js/app.js",
       "resources/js/Pages/Admin/Forum/CommentNode.vue",
       "__plugin-vue_export-helper-c27b6911.js",
@@ -231,15 +231,15 @@
   },
   "resources/js/Pages/Admin/Notification/Index.css": {
     "file": "assets/Index-7124c9a5.css",
-    "src": "resources/js/Pages/Admin/Forum/Index.css"
+    "src": "resources/js/Pages/Admin/Notification/Index.css"
   },
   "resources/js/Pages/Admin/Notification/Index.vue": {
     "css": [
       "assets/Index-7124c9a5.css"
     ],
-    "file": "assets/Index-7e2e8092.js",
+    "file": "assets/Index-03922298.js",
     "imports": [
-      "_AdminLayout-1d3700ae.js",
+      "_AdminLayout-f20c5b94.js",
       "resources/js/app.js",
       "__plugin-vue_export-helper-c27b6911.js",
       "_logo-c37a058e.js"
@@ -255,9 +255,9 @@
     "css": [
       "assets/Index-f5c22a41.css"
     ],
-    "file": "assets/Index-880fbdf6.js",
+    "file": "assets/Index-ecf96a0d.js",
     "imports": [
-      "_AdminLayout-1d3700ae.js",
+      "_AdminLayout-f20c5b94.js",
       "resources/js/app.js",
       "__plugin-vue_export-helper-c27b6911.js",
       "_logo-c37a058e.js"
@@ -266,12 +266,12 @@
     "src": "resources/js/Pages/Admin/Profile/Index.vue"
   },
   "resources/js/Pages/Admin/ProjectTypes/Create.vue": {
-    "file": "assets/Create-dd85a0dd.js",
+    "file": "assets/Create-6b154e03.js",
     "imports": [
-      "_AdminLayout-1d3700ae.js",
+      "_AdminLayout-f20c5b94.js",
       "resources/js/app.js",
-      "_Pagination-e77d07ce.js",
-      "_ValidationError-de78d7d1.js",
+      "_Pagination-1036cda7.js",
+      "_ValidationError-8bcdd75a.js",
       "__plugin-vue_export-helper-c27b6911.js",
       "_logo-c37a058e.js"
     ],
@@ -279,12 +279,12 @@
     "src": "resources/js/Pages/Admin/ProjectTypes/Create.vue"
   },
   "resources/js/Pages/Admin/ProjectTypes/Edit.vue": {
-    "file": "assets/Edit-bddbffe0.js",
+    "file": "assets/Edit-769bbd53.js",
     "imports": [
-      "_AdminLayout-1d3700ae.js",
+      "_AdminLayout-f20c5b94.js",
       "resources/js/app.js",
-      "_Pagination-e77d07ce.js",
-      "_ValidationError-de78d7d1.js",
+      "_Pagination-1036cda7.js",
+      "_ValidationError-8bcdd75a.js",
       "__plugin-vue_export-helper-c27b6911.js",
       "_logo-c37a058e.js"
     ],
@@ -292,9 +292,9 @@
     "src": "resources/js/Pages/Admin/ProjectTypes/Edit.vue"
   },
   "resources/js/Pages/Admin/ProjectTypes/Index.vue": {
-    "file": "assets/Index-a9de5294.js",
+    "file": "assets/Index-916e5a58.js",
     "imports": [
-      "_AdminLayout-1d3700ae.js",
+      "_AdminLayout-f20c5b94.js",
       "resources/js/app.js",
       "__plugin-vue_export-helper-c27b6911.js",
       "_logo-c37a058e.js"
@@ -303,13 +303,13 @@
     "src": "resources/js/Pages/Admin/ProjectTypes/Index.vue"
   },
   "resources/js/Pages/Admin/Projects/Create.vue": {
-    "file": "assets/Create-9ce6b404.js",
+    "file": "assets/Create-02435d2b.js",
     "imports": [
-      "_AdminLayout-1d3700ae.js",
+      "_AdminLayout-f20c5b94.js",
       "resources/js/app.js",
-      "_Pagination-e77d07ce.js",
-      "_ValidationError-de78d7d1.js",
-      "_searchUser-450b5bb8.js",
+      "_Pagination-1036cda7.js",
+      "_ValidationError-8bcdd75a.js",
+      "_searchUser-56cbf20e.js",
       "__plugin-vue_export-helper-c27b6911.js",
       "_logo-c37a058e.js"
     ],
@@ -317,13 +317,13 @@
     "src": "resources/js/Pages/Admin/Projects/Create.vue"
   },
   "resources/js/Pages/Admin/Projects/Edit.vue": {
-    "file": "assets/Edit-27e959f5.js",
+    "file": "assets/Edit-d8703fd1.js",
     "imports": [
-      "_AdminLayout-1d3700ae.js",
+      "_AdminLayout-f20c5b94.js",
       "resources/js/app.js",
-      "_Pagination-e77d07ce.js",
-      "_ValidationError-de78d7d1.js",
-      "_searchUser-450b5bb8.js",
+      "_Pagination-1036cda7.js",
+      "_ValidationError-8bcdd75a.js",
+      "_searchUser-56cbf20e.js",
       "__plugin-vue_export-helper-c27b6911.js",
       "_logo-c37a058e.js"
     ],
@@ -331,11 +331,11 @@
     "src": "resources/js/Pages/Admin/Projects/Edit.vue"
   },
   "resources/js/Pages/Admin/Projects/Index.vue": {
-    "file": "assets/Index-c58ca0be.js",
+    "file": "assets/Index-4c02f793.js",
     "imports": [
-      "_AdminLayout-1d3700ae.js",
+      "_AdminLayout-f20c5b94.js",
       "resources/js/app.js",
-      "_Pagination-e77d07ce.js",
+      "_Pagination-1036cda7.js",
       "__plugin-vue_export-helper-c27b6911.js",
       "_logo-c37a058e.js"
     ],
@@ -343,11 +343,11 @@
     "src": "resources/js/Pages/Admin/Projects/Index.vue"
   },
   "resources/js/Pages/Admin/Projects/details.vue": {
-    "file": "assets/details-841c5d4f.js",
+    "file": "assets/details-f57e9b0a.js",
     "imports": [
-      "_AdminLayout-1d3700ae.js",
-      "_Cstcarousel-ca2c56fa.js",
-      "_searchUser-450b5bb8.js",
+      "_AdminLayout-f20c5b94.js",
+      "_Cstcarousel-ef2a8c80.js",
+      "_searchUser-56cbf20e.js",
       "resources/js/app.js",
       "__plugin-vue_export-helper-c27b6911.js",
       "_logo-c37a058e.js"
@@ -356,12 +356,12 @@
     "src": "resources/js/Pages/Admin/Projects/details.vue"
   },
   "resources/js/Pages/Admin/Roles/Create.vue": {
-    "file": "assets/Create-52964cd3.js",
+    "file": "assets/Create-8d436e21.js",
     "imports": [
-      "_AdminLayout-1d3700ae.js",
+      "_AdminLayout-f20c5b94.js",
       "resources/js/app.js",
-      "_Pagination-e77d07ce.js",
-      "_ValidationError-de78d7d1.js",
+      "_Pagination-1036cda7.js",
+      "_ValidationError-8bcdd75a.js",
       "__plugin-vue_export-helper-c27b6911.js",
       "_logo-c37a058e.js"
     ],
@@ -369,12 +369,12 @@
     "src": "resources/js/Pages/Admin/Roles/Create.vue"
   },
   "resources/js/Pages/Admin/Roles/Edit.vue": {
-    "file": "assets/Edit-3315a7a4.js",
+    "file": "assets/Edit-35d63859.js",
     "imports": [
-      "_AdminLayout-1d3700ae.js",
+      "_AdminLayout-f20c5b94.js",
       "resources/js/app.js",
-      "_Pagination-e77d07ce.js",
-      "_ValidationError-de78d7d1.js",
+      "_Pagination-1036cda7.js",
+      "_ValidationError-8bcdd75a.js",
       "__plugin-vue_export-helper-c27b6911.js",
       "_logo-c37a058e.js"
     ],
@@ -382,9 +382,9 @@
     "src": "resources/js/Pages/Admin/Roles/Edit.vue"
   },
   "resources/js/Pages/Admin/Roles/Index.vue": {
-    "file": "assets/Index-6b53d651.js",
+    "file": "assets/Index-d49e0252.js",
     "imports": [
-      "_AdminLayout-1d3700ae.js",
+      "_AdminLayout-f20c5b94.js",
       "resources/js/app.js",
       "__plugin-vue_export-helper-c27b6911.js",
       "_logo-c37a058e.js"
@@ -393,12 +393,12 @@
     "src": "resources/js/Pages/Admin/Roles/Index.vue"
   },
   "resources/js/Pages/Admin/Users/Create.vue": {
-    "file": "assets/Create-9a659b86.js",
+    "file": "assets/Create-e7ae2143.js",
     "imports": [
-      "_AdminLayout-1d3700ae.js",
+      "_AdminLayout-f20c5b94.js",
       "resources/js/app.js",
-      "_Pagination-e77d07ce.js",
-      "_ValidationError-de78d7d1.js",
+      "_Pagination-1036cda7.js",
+      "_ValidationError-8bcdd75a.js",
       "__plugin-vue_export-helper-c27b6911.js",
       "_logo-c37a058e.js"
     ],
@@ -406,12 +406,12 @@
     "src": "resources/js/Pages/Admin/Users/Create.vue"
   },
   "resources/js/Pages/Admin/Users/Edit.vue": {
-    "file": "assets/Edit-6e8612ef.js",
+    "file": "assets/Edit-3e23a45b.js",
     "imports": [
-      "_AdminLayout-1d3700ae.js",
+      "_AdminLayout-f20c5b94.js",
       "resources/js/app.js",
-      "_Pagination-e77d07ce.js",
-      "_ValidationError-de78d7d1.js",
+      "_Pagination-1036cda7.js",
+      "_ValidationError-8bcdd75a.js",
       "__plugin-vue_export-helper-c27b6911.js",
       "_logo-c37a058e.js"
     ],
@@ -419,11 +419,11 @@
     "src": "resources/js/Pages/Admin/Users/Edit.vue"
   },
   "resources/js/Pages/Admin/Users/Index.vue": {
-    "file": "assets/Index-37248410.js",
+    "file": "assets/Index-e20cf3f3.js",
     "imports": [
-      "_AdminLayout-1d3700ae.js",
+      "_AdminLayout-f20c5b94.js",
       "resources/js/app.js",
-      "_Pagination-e77d07ce.js",
+      "_Pagination-1036cda7.js",
       "__plugin-vue_export-helper-c27b6911.js",
       "_logo-c37a058e.js"
     ],
@@ -443,10 +443,10 @@
     "css": [
       "assets/home-49001d3f.css"
     ],
-    "file": "assets/home-282d0d46.js",
+    "file": "assets/home-11a9c62b.js",
     "imports": [
       "resources/js/app.js",
-      "_AdminLayout-1d3700ae.js",
+      "_AdminLayout-f20c5b94.js",
       "__plugin-vue_export-helper-c27b6911.js",
       "_logo-c37a058e.js"
     ],
@@ -461,7 +461,7 @@
     "css": [
       "assets/home-edb8d45d.css"
     ],
-    "file": "assets/home-702acfe5.js",
+    "file": "assets/home-4cc668af.js",
     "imports": [
       "__plugin-vue_export-helper-c27b6911.js",
       "resources/js/app.js",
@@ -500,12 +500,12 @@
       "resources/js/Pages/Admin/Users/Edit.vue",
       "resources/js/Pages/Admin/Users/Index.vue"
     ],
-    "file": "assets/app-b9f46dc5.js",
+    "file": "assets/app-df21bdc9.js",
     "isEntry": true,
     "src": "resources/js/app.js"
   },
   "resources/sass/app.scss": {
-    "file": "assets/app-73fea42c.css",
+    "file": "assets/app-2805c470.css",
     "isEntry": true,
     "src": "resources/sass/app.scss"
   }
